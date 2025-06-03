@@ -1,0 +1,181 @@
+<nav class="breadcrumb">
+  <a style="font-size: small; margin-left: 50px;" class="breadcrumb-link" [routerLink]="['/home/tour/list']" [routerLinkActive]="'active-link'"> List Tour </a> 
+  <label style="font-size: small;" for=""> > Tour</label>
+   <!-- <span class="breadcrumb-separator"> > </span> -->
+</nav>
+<div class="container-detail" *ngIf="tour">
+    <div class="title">
+      <h3>{{tour.Ten}}  <i class="fa-solid fa-star"></i>  <i class="fa-solid fa-star"></i>  <i class="fa-solid fa-star"></i>  <i class="fa-solid fa-star"></i>  <i class="fa-solid fa-star"></i></h3>
+    </div>
+    <div class="container-main">
+      <div class="photo">
+        <img style="height: 380px; width: 700px;" [src]="tour.PathAnh">
+      </div>
+      <div class="content">
+        <div class="sale">
+          <span>Tiết kiệm</span>
+          <h5>6%</h5>
+        </div>
+        <div class="main">
+          <h4>Giá từ: {{tour.Gia}}/người</h4>
+        <span><i class="fas fa-location-dot"></i> Từ: {{tour.NoiXuatPhat}}</span>
+        <span><i class="fas fa-car"></i> Đi: {{tour.NoiDen}}</span> <br>
+        <span><i class="fas fa-clock"></i> {{tour.ThoiGian}}</span>
+        </div>
+        <div class="diemnoibat">
+          <h5>Điểm nổi bật:</h5>
+          <div>
+            <i class="fa-solid fa-check"></i>
+            <span> Quà tặng phao thiên nga khổng lồ, phao nhúng khi lặn san hô</span>
+          </div>
+          <div>
+            <i class="fa-solid fa-check"></i>
+            <span> Trượt cát cho nhóm tổ chức riêng</span>
+          </div>
+          <div>
+            <i class="fa-solid fa-phone"></i>
+            <span> Liên hệ: 0339716273</span>
+          </div>
+        </div>
+        <div class="button">
+          <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal" (click)="chonTour(tour)">GỬI YÊU CẦU</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="form" style="border: 1px solid #a79c9c ; width:1000px;
+  margin-bottom: 20px; margin-top: 20px; margin-left: 10px;">
+    <div style="padding: 20px;">
+      <h4>Đánh giá sản phẩm của bạn</h4>
+    </div>
+  <div style="padding: 50px; margin-top:  -50px;">
+    <div class="review-form" >
+      <textarea style="width: 500px;" [(ngModel)]="newReview" placeholder="Hãy để lại bình luận của bạn tại đây!"></textarea>
+      <div class="rating">
+        <label>Rating:</label>
+        <select [(ngModel)]="rating">
+          <option *ngFor="let star of [1, 2, 3, 4, 5]" [value]="star">{{ star }} ★</option>
+        </select>
+      </div>
+      <button style="padding: 8px 8px; background-color: blue; color: white; " (click)="submitReview()">Gửi</button>
+    </div>
+    <div style="border: 1px solid #a79c9c; margin-top: 10px; padding: 10px 10px; " class="review-item" *ngFor="let r of reviews">
+      <p><strong>{{customer_name}}</strong></p>
+      <p>Rating: {{ r.rating }} ★</p>
+      <p>{{ r.content }}</p>
+      <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#addModal" (click)="editReview(r)">
+        <i class="fas fa-pen"></i>
+      </button>
+      <button style="margin-left: 20px;" type="button" class="btn btn-warning" (click)="deleteReview(r.id)">
+        <i class="fas fa-trash"></i>
+      </button>
+    </div>
+  </div>
+  </div>
+  
+  <div class="modal fade" id="addModal" tabindex="-1" aria-labelledby="addModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="addModalLabel">Edit Review</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form *ngIf="selectedReview" (ngSubmit)="suaReview()">
+            <div class="mb-3">
+              <label for="Content" class="form-label">Content</label>
+              <input type="text" class="form-control" id="Content" [(ngModel)]="contenReview" name="Content" required>
+            </div>
+            <div class="mb-3">
+              <label for="Rating" class="form-label">Rating</label>
+              <select class="form-control" id="Rating" [(ngModel)]="ratingReview" name="Rating" rows="3" required>
+                <option *ngFor="let star of [1, 2, 3, 4, 5]" [value]="star">{{ star }} ★</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-danger" data-bs-dismiss="modal">Update Review</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="descript">
+    <div class="item1">
+      <h4>GIÁ TOUR BAO GỒM:</h4>
+      <div>
+        <li>Xe ô tô đời mới theo lịch trình</li>
+        <li>Cano siêu tốc khứ hồi phục vụ theo chương trình</li>
+        <li>Bữa trưa hải sản theo chương trình</li>
+        <li>Dụng cụ lặn ngắm san hô: Áo phao, Kính lặn</li>
+        <li>Vé Cầu tình yêu (Cầu Hang Yến)</li>
+        <li>Vé vào bãi tắm Kỳ Co</li>
+        <li>Show biểu diễn xiếc Hải Cẩu</li>
+        <li>Dịch vụ tắm tráng nước ngọt</li>
+      </div>
+    </div>
+    <div class="item2">
+      <h4>ĐIỀU KHOẢN VÀ QUY ĐỊNH:</h4>
+      <div>
+        <span>CHÍNH SÁCH ƯU ĐÃI DÀNH CHO TRẺ EM:</span>
+        <li>2 người lớn miễn phí 1 trẻ em dưới 5 tuổi, trẻ thứ 2 tính 50%.</li>
+        <li>Trẻ em từ 5 – 10 tuổi, tính 50% chi phí người lớn</li>
+        <li>Trẻ từ 10 tuổi trở lên, tính bằng chi phí người lớn.</li>
+      </div>
+      <span>LƯU Ý:</span>
+      <li>Quý khách chuẩn bị thêm quần áo gọn nhẹ, dép lào hoặc dép để đi biển</li>
+      <li>Cung cấp đầy đủ thông tin theo yêu cầu đề công ty đăng ký bảo hiểm</li>
+      <li>Bắt buộc phải mặc áo phao</li>
+    </div>
+  </div>
+  
+  <!-- Đặt tour -->
+  <div class="create-button">
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" *ngIf="userService.getCurrentUser()">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="exampleModalLabel">ĐẶT TOUR</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" (click)="dong()"></button>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-sm-7">
+                <div class="row form-group">
+                  <label class="col-sm-4">Tên khách hàng: </label>
+                  <div class="col-sm-9">
+                    <input class="form-control" [(ngModel)]="name"></div>
+                </div>
+                </div>
+                <div class="row form-group">
+                  <label class="col-sm-4">Số điện thoại: </label>
+                  <div class="col-sm-9"><input class="form-control" [(ngModel)]="sdt"></div>
+                </div>
+                <div class="row form-group">
+                  <label class="col-sm-4">Số lượng khách: </label>
+                  <div class="col-sm-9"><input class="form-control" [(ngModel)]="soLuong"></div>
+                </div>
+                <div class="row form-group">
+                  <label class="col-sm-4">Ngày khởi hành: </label>
+                  <div class="col-sm-9"><input style="margin-left: 30px;" type="date" [(ngModel)]="ngayKhoiHanh" name="ngayKhoiHanh" required></div>
+                </div>
+                </div>
+                <div class="row form-group">
+                  <label class="col-sm-4">Chọn phương tiện: </label>
+                  <div class="col-sm-9">
+                    <select class="form-control" [(ngModel)]="idXe" name="IDXe" >
+                      <option *ngFor="let v of DSVehicle" value="{{v.Id}}">{{v.Name}} </option>
+                    </select>
+                </div>
+            </div>
+            <br>
+            <div class="">
+              <button style="margin-left: 200px;" class="btn btn-primary" (click)="themDonhang()" >Thêm</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

@@ -1,0 +1,22 @@
+<nav class="breadcrumb">
+  <a style="font-size: small; margin-left: 50px;" class="breadcrumb-link" [routerLink]="['/home/tour/list']" [routerLinkActive]="'active-link'"> List Tour </a> 
+  <label style="font-size: small;" for=""> > Category</label>
+   <!-- <span class="breadcrumb-separator"> > </span> -->
+</nav>
+<div class="container-touroneday" *ngIf="tours.length > 0">
+    <div class="intro-touroneday">
+      <h5>TOUR QUY NHƠN</h5>
+      <h6>Tour Quy Nhơn khởi hành hàng ngày đón tại Quy Nhơn</h6>
+    </div>
+    <div class="tour-oneday">
+      <div *ngFor="let tour of tours" class="tour">
+        <a href="#" [routerLink]="['/home/tour/detail', tour.Id]" [routerLinkActive]="'active-link'">
+          <img [src]="tour.PathAnh">
+          <h5>{{tour.Ten}}</h5>
+          <span>Lịch trình: {{tour.ThoiGian}}</span>
+          <span>Khởi hành: Hàng ngày</span>
+          <h4><i class="fa-regular fa-heart"></i> {{tour.Gia}}/người</h4>
+        </a>
+      </div>
+    </div>
+  </div>

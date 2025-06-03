@@ -1,0 +1,63 @@
+<button type="button" class="btn btn-success" [routerLink]="['/admin/categories/create']" style="margin-left: 30px; margin-top: 20px;"><i class="fas fa-plus"></i> Thêm danh mục</button>
+<!-- Modal -->
+<div class="modal fade" id="addModal" tabindex="-1" aria-labelledby="addModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h5 class="modal-title" id="addModalLabel">Sửa Danh Mục Mới</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+
+      </div>
+
+      <!-- Modal Body -->
+      <div class="modal-body" >
+        <form *ngIf="selectedDanhMuc"  (ngSubmit)="suaDanhMuc()">
+          <div class="mb-3">
+            <label for="Name" class="form-label">Tên Danh Mục</label>
+            <input type="text" class="form-control" id="Name" [(ngModel)]="tenDanhMuc" name="Name" required>
+          </div>
+          <div class="mb-3">
+            <label for="Description" class="form-label">Mô tả</label>
+            <textarea class="form-control" id="Description" [(ngModel)]="moTaDanhMuc" name="Description" rows="3" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-danger" data-bs-dismiss="modal" >Cập Nhật Danh Mục</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container mt-3">
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Tên danh mục</th>
+        <th>Mô tả danh mục</th>
+        <th style="width: 200px;">Hành động</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let danhmuc of DsDanhmuc">
+        <td>
+            <a href="" [routerLink]="['/admin/tours/list', danhmuc.category_id]" [routerLinkActive]="'active-link'">
+                {{ danhmuc.name }}
+            </a>
+        </td>
+        <td>{{ danhmuc.description }}</td>
+        <td class="sua-xoa">
+            <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#addModal" (click)="editDanhMuc(danhmuc)">
+                <i class="fas fa-pen"></i>
+            </button>
+            <!-- <button style="margin-left: 20px;" type="button" class="btn btn-warning" [routerLink]="['/admin/danhmuc/details', danhmuc.category_id]">
+              <i class="fas fa-circle-info"></i>
+          </button> -->
+            <button style="margin-left: 20px;" type="button" class="btn btn-warning" (click)="xoaDsDanhmuc(danhmuc)">
+                <i class="fas fa-trash"></i>
+            </button>
+        </td>
+    </tr>
+
+    </tbody>
+  </table>
+</div>

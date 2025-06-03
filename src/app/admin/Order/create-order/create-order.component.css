@@ -1,0 +1,23 @@
+h2{
+    margin-top: 30px;
+    margin-left: 200px;
+    color: blue;
+    margin-bottom: 30px;
+    border-bottom:  solid blue;
+    width: 700px;
+  }
+  .form-create{
+    width: 700px;
+    margin: 0 auto;
+    background-color: rgb(176, 193, 247);
+    padding: 30px 30px;
+    border-radius: 15px;
+  }
+  .form-create label{
+    font-weight: bold;
+  }
+  .form-create button{
+    margin-top: 20px;
+    margin-left: 250px;
+  }
+  

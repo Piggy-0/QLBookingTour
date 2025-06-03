@@ -1,0 +1,88 @@
+<!-- <div class="row">
+    <div class="col-sm-5">
+      <img [src]="this.tour.PathAnh" width="150px" height="150px">
+      <input class="form-control" (change)="uploadPhoto($event)" type="file" >
+    </div>
+    <div class="col-sm-7">
+      <div class="row form-group">
+        <label class="col-sm-4">Tên: </label>
+        <div class="col-sm-9"><input class="form-control" [(ngModel)]="ten"></div>
+      </div>
+      <div class="row form-group">
+        <label class="col-sm-4">Danh mục: </label>
+        <select class="form-control" [(ngModel)]="category_id" >
+          <option *ngFor="let loai of DsDanhmuc" value="{{loai.category_id}}">{{loai.name}}</option>
+        </select>
+      </div>
+      <div class="row form-group">
+        <label class="col-sm-4">Điểm xuất phát: </label>
+        <div class="col-sm-9"><input class="form-control" [(ngModel)]="noixuatphat"></div>
+      </div>
+      <div class="row form-group">
+        <label class="col-sm-4">Điểm đến: </label>
+        <div class="col-sm-9"><input class="form-control" [(ngModel)]="noiden"></div>
+      </div>
+      <div class="row form-group">
+        <label class="col-sm-4">Thời gian: </label>
+        <div class="col-sm-9"><input class="form-control" [(ngModel)]="thoigian"></div>
+      </div>
+      <div class="row form-group">
+        <label class="col-sm-4">Giá: </label>
+        <div class="col-sm-9"><input class="form-control" [(ngModel)]="gia"></div>
+      </div>
+  </div>
+  <br>
+  <div class="">
+    <button class="btn btn-primary" (click)="createTour()" *ngIf="this.tour.Id==0">Thêm</button>
+    <button class="btn btn-primary" (click)="suaTour(this.tour.Id)" *ngIf="this.tour.Id!=0">Cập nhật</button>
+  </div>
+   -->
+
+  
+<div class="create-product-form">
+    <h2>Create Product</h2>
+  
+    <form (ngSubmit)="createTour()">
+    <!-- Image Preview -->
+    <div *ngIf="anh && anh.trim().length > 0">
+        <img [src]="photosUrl + '/' + anh" alt="Image Preview" width="100" />
+    </div>
+      <!-- Image Upload -->
+    <div >
+      <label for="image">Upload Image</label>
+    <input type="file" id="image" (change)="uploadPhoto($event)" />
+  </div>
+    <div >
+      <label >Tên: </label>
+      <div ><input class="form-control" name="Ten" [(ngModel)]="Ten"></div>
+    </div>
+    <div >
+      <label >Danh mục: </label>
+      <select class="form-control" [(ngModel)]="category_id" name="category_id" >
+        <option *ngFor="let loai of DsDanhmuc" value="{{loai.category_id}}">{{loai.name}}</option>
+      </select>
+    </div>
+    <div >
+      <label >Điểm xuất phát: </label>
+      <div><input class="form-control" name="Noixuatphat" [(ngModel)]="Noixuatphat"></div>
+    </div>
+    <div>
+      <label >Điểm đến: </label>
+      <div ><input class="form-control" name="Noiden" [(ngModel)]="Noiden"></div>
+    </div>
+    <div >
+      <label>Thời gian: </label>
+      <div ><input class="form-control" name="Thoigian" [(ngModel)]="Thoigian"></div>
+    </div>
+    <div >
+      <label>Giá: </label>
+      <div ><input class="form-control" name="Gia" [(ngModel)]="Gia"></div>
+    </div>
+
+          <!-- Submit Button -->
+      <button type="submit">Create</button>
+    </form>
+    
+  </div>
+  
+  

@@ -1,0 +1,97 @@
+.modal-content {
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  transform: scale(0.95);
+  transition: transform 0.3s ease;
+}
+
+.modal-content:hover {
+  transform: scale(1);
+}
+
+.modal-header {
+  background-color: #065d8fdc;
+  color: #fff;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.modal-title {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+/* Form field spacing */
+form .mb-3 {
+  margin-bottom: 15px;
+}
+
+form label {
+  font-weight: bold;
+  color: #333;
+}
+
+form input[type="text"],
+form input[type="number"],
+form input[type="date"],
+form textarea {
+  border-radius: 6px;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Submit button style */
+form .btn-danger {
+  background-color: #dc3545;
+  border: none;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
+}
+
+form .btn-danger:hover {
+  background-color: #c82333;
+}
+
+/* Điều chỉnh nút "Cập nhật" canh giữa */
+form button[type="submit"] {
+  display: block;
+  margin: 20px auto 0;
+}
+
+/* Table styles kế thừa */
+.table {
+  border-spacing: 2px;
+  width: 1110px;
+}
+
+.table.table-hover th {
+  padding: 12px;
+  text-align: center;
+  background-color: #6e8dc7;
+  color: white;
+  font-weight: bold;
+}
+
+.table.table-hover td,
+.table.table-hover th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.sua-xoa {
+  text-align: center;
+}
+
+.them {
+  margin-top: 30px;
+  margin-left: 30px;
+}

@@ -1,0 +1,115 @@
+
+
+<!-- Modal -->
+<div class="modal fade" id="addModal" tabindex="-1" aria-labelledby="addModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h5 class="modal-title" id="addModalLabel">Cập nhật Hóa đơn</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <!-- Modal Body -->
+      <div class="modal-body" >
+        <form *ngIf="selected"  (ngSubmit)="suaDonHang()">
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Tên khách hàng</label>
+                    <input type="text" class="form-control" id="Name" [(ngModel)]="Name" name="Name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="sdt" class="form-label">Số ĐT</label>
+                    <input type="text" class="form-control" id="sdt" [(ngModel)]="sdt" name="sdt" required>
+                </div>
+                <div class="mb-3">
+                  <label for="Email" class="form-label">Email</label>
+                  <input type="text" class="form-control" id="Email" [(ngModel)]="Email" name="Email" readonly>
+              </div>
+                <div class="mb-3">
+                    <label for="SoLuong" class="form-label">Số lượng</label>
+                    <input type="number" class="form-control" id="SoLuong" [(ngModel)]="SoLuong" name="soLuong" (input)="updateGia()" required>
+                </div>
+                <div class="mb-3">
+                    <label for="ngayKhoiHanh">Ngày Khởi Hành:</label>
+                    <input type="date" class="form-control" id="ngayKhoiHanh" [(ngModel)]="NgayKhoiHanh" name="ngayKhoiHanh" required>
+                </div>
+                <div class="mb-3">
+                  <label for="IDTour" class="form-label">Tên Tour</label>
+                  <select class="form-select" [(ngModel)]="IDTour" name="IDTour" (change)="loadTourAndUpdateGia()" required>
+                    <option *ngFor="let tour of DsTour" [value]="tour.Id">{{ tour.Ten }}</option>
+                  </select>                  
+                  <!-- <input type="text" class="form-control" id="IDTour" [(ngModel)]="IDTour" name="IDTour" (input)="loadTourAndUpdateGia()"required> -->
+              </div>
+              <div class="mb-3">
+                <label for="IDXe" class="form-label">Tên Xe</label>
+                <select class="form-select" [(ngModel)]="IDXe" name="IDXe" >
+                  <option *ngFor="let v of DSVehicle" [value]="v.Id">{{v.Name}} </option>
+                </select>
+                <!-- <input type="text" class="form-control" id="IDXe" [(ngModel)]="IDXe" name="IDXe" required> -->
+              </div>
+              <div class="mb-3">
+                <label for="Gia" class="form-label">Giá</label>
+                <span> {{Gia}} </span>
+                <!-- <input type="text" class="form-control" id="Gia" [(ngModel)]="Gia" name="Gia" required> -->
+              </div>
+            <button style="margin-left: 180px;" type="submit" class="btn btn-danger" data-bs-dismiss="modal" >Cập nhật</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<button type="button" class="them btn btn-danger"  [routerLink]="['/admin/orders/create']">Thêm đơn hàng</button>
+<div class="container mt-3">
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Tên </th>
+        <th>Email</th>
+        <th>Số Lượng</th>
+        <th>Status</th>
+        <th>Ngày Khởi Hành</th>
+        <th>Tour</th>
+        <th>Phương tiện</th>
+        <th>Giá</th>
+        <th>Hành động</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let donhang of DSDonHang"
+      [routerLink]="['/admin/orders/detail', donhang.ID]"
+      routerLinkActive="active-link"
+      style="cursor: pointer;">
+        <td>{{ donhang.Name }}</td>
+        <td>{{ donhang.Email }}</td>
+        <td>{{ donhang.SoLuong }}</td>
+        <td (click)="$event.stopPropagation()">
+          <select [(ngModel)]="donhang.order_status" >
+            <option>{{donhang.order_status}}</option>
+            <option *ngFor="let status of orderStatuses[donhang.order_status]" [value]="status">{{ status }}</option>
+          </select>
+        </td>
+        <td>{{ donhang.NgayKhoiHanh | date:'MM/dd/yyyy'}}</td>
+        <td>{{ donhang.TourTen }}</td>
+        <td>{{ donhang.VehiclesTen }}</td>
+        <td>{{ donhang.Gia }}</td>
+        <td class="sua-xoa" (click)="$event.stopPropagation()">
+          <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#addModal" (click)="editDonHang(donhang)" >
+            <i class="fas fa-pen"></i>
+          </button>
+          <button type="button" class="btn btn-warning" (click)="xoaDsDonhang(donhang)" style="margin-left: 10px;">
+            <i class="fas fa-trash"></i>
+          </button>
+          <button class="btn btn-danger" (click)="updateOrderStatus(donhang.ID, donhang.order_status)" style="margin-left: 10px;">
+            <i class="fas fas fa-floppy-disk"></i>
+          </button>
+          <!-- <button type="button" class="btn btn-warning" [routerLink]="['/admin/orders/detail', donhang.ID]" style="margin-left: 10px;">
+            <i class="fas fa-info-circle"></i>
+          </button> -->
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+

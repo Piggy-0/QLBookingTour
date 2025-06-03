@@ -1,0 +1,143 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+  }
+  
+  /* css menu */
+  .menu-container{
+    /* padding: 0 auto; */
+    /*  */
+    /* background-color: rgb(90, 90, 247); */
+    background-image: url("../../assets/img/quynhon2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #f3f3f3;
+    background-attachment: fixed;
+    transition: top 0.3s ease;
+    font-size: 15px;
+    padding-bottom: 150px;
+  }
+  
+  .menu-container{
+    transition: top 0.3s ease;
+  }
+  .menu{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  /* .menu ul {
+    padding-left: 330px;
+  } */
+  .menu li{
+    padding-left: 10px;
+  }
+  .menu li a:hover {
+    color: #070580; /* Màu khi chọn hoặc hover */
+    border-bottom: 2px solid #070580; /* Gạch chân */
+  }
+  /* css text */
+  .container-text {
+    width: 550px; /* Điều chỉnh kích thước của khung chứa */
+    overflow: hidden; /* Đảm bảo các phần tử vượt ra ngoài khung chứa sẽ bị ẩn đi */
+    margin: 0 auto;
+    font-size: large;
+    color: white;
+  }
+  
+  .text-slider {
+    display: flex;
+    animation: slide-animation 9s infinite; /* Tổng thời gian chuyển đổi và lặp lại */
+  }
+  
+  .slide-item {
+    width: 200px; /* Điều chỉnh kích thước của mỗi phần tử */
+    padding: 10px;
+    text-align: center;
+  }
+  
+  @keyframes slide-animation {
+    0% { transform: translateX(0); }
+    33.33% { transform: translateX(-100%); } /* Di chuyển sang trái */
+    66.66% { transform: translateX(-200%); } /* Di chuyển sang trái */
+    100% { transform: translateX(0); } /* Quay lại vị trí ban đầu */
+  }
+  .container-demo{
+    text-align: center;
+    padding-top: 200px;
+  }
+  .container-demo span{
+    font-size: xx-large;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .container-demo h4{
+    color: white;
+  }
+  
+  /* css search */
+  .search{
+    text-align: center;
+  }
+  .search input, button{
+   border: none;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   text-align: center;
+  
+  }
+  .search input {
+    width: 250px;
+  }
+  .search input:focus{
+    outline: none;
+  }
+  .search .noidi{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .search button{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: brown;
+    width: 80px;
+  }
+  
+  /* css details */
+  .container-footer{
+    display: flex;
+    background-color: #8c8bc4;
+    margin-top: 50px;
+  }
+  .footer, .footer2{
+    padding: 30px 30px;
+  }
+  .footer img{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-left: 160px;
+    margin-bottom: 30px;
+  }
+  .footer2 h2{
+    color: #dfb04b;
+  }
+  .footer, .footer2 h4{
+    color: white;
+  }
+  .footer, .footer2 span{
+    color: wheat;
+  }
+  .footer-info1 {
+    width: 400px;
+  }
+  .footer2{
+    width: 430px;
+  }
+
+
+
+
+
+

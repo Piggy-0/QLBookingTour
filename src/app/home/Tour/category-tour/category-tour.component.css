@@ -1,0 +1,77 @@
+.container-touroneday{
+    margin-top: 50px;
+    text-align: left;
+  }
+  .intro-touroneday h5, h6{
+    padding-left: 100px;
+  }
+  .intro-touroneday h5{
+    color: #19175c;
+  }
+  .container-touroneday a{
+    font-size: 15px;
+  }
+  .tour-oneday {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 cột có chiều rộng bằng nhau */
+    grid-gap: 15px; /* Khoảng cách giữa các cột */
+    height: auto;
+    margin-left: 100px;
+    margin-right: 50px;
+  }
+  .tour-oneday .tour a{
+    text-decoration: none;
+  }
+  .tour-oneday .tour{
+    border: 1px solid rgb(155, 152, 152);
+    border-radius: 20px;
+    width: 350px;
+  }
+  .tour-oneday .tour h5, span, h4{
+    padding: 10px;
+  }
+  .tour-oneday .tour h5{
+    color: #1c19ca;
+  }
+  .tour-oneday .tour span{
+    font-size: 13px;
+  }
+  .tour-oneday .tour h4{
+    color: rgb(172, 18, 18);
+    text-align: right;
+  }
+  .tour-oneday .tour img {
+    height: 200px;
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+  .tour-oneday .tour:hover img{
+    filter: brightness(70%);
+  }
+  .tour-oneday .tour:hover h5{
+    color: #fdb417;
+  }
+  .tour-oneday .tour:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+
+   /* Breadcrumb Container */
+   .breadcrumb {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+  }
+
+  
+  .breadcrumb-link {
+    font-size: 16px;
+    font-weight: 500;
+    color: #0275d8; /* Blue color for the link */
+    text-decoration: none; /* Remove underline from links */
+    transition: color 0.3s ease; /* Smooth transition on hover */
+  }

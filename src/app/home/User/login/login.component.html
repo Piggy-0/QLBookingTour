@@ -1,0 +1,20 @@
+<nav class="breadcrumb">
+  <a style="font-size: small; margin-left: 50px;" class="breadcrumb-link" [routerLink]="['/home/homepage']" [routerLinkActive]="'active-link'"> Trang Chủ </a> 
+  <label style="font-size: small;" for=""> > Login</label>
+   <!-- <span class="breadcrumb-separator"> > </span> -->
+
+</nav>
+<div class="outer">
+  <div class="login-container">
+    <form (ngSubmit)="Login()" #loginForm="ngForm">
+      <label for="username">USERNAME</label>
+      <input type="text" id="username" name="username" [(ngModel)]="username"  required>
+  
+      <label for="password">PASSWORD</label>
+      <input type="password" id="password" name="password" [(ngModel)]="password" required>
+  
+      <button type="submit">Đăng nhập</button> <br>
+     <a  [routerLink]="['/home/user/register']" [routerLinkActive]="'active-link'">Đăng ký tại đây!!!</a> 
+    </form>
+  </div>
+</div>

@@ -1,0 +1,126 @@
+<nav class="breadcrumb">
+    <!-- <a style="font-size: small; margin-left: 50px;" class="breadcrumb-link" [routerLink]="['/home/list']" [routerLinkActive]="'active-link'"> Trang Chủ </a>  -->
+    <label  style="font-size: small;" for="">  > Đơn hàng </label>
+  
+  </nav>
+<div class="outer-container">
+    <div class="one">
+        <div class="one-item">
+            <img src="assets/img/soc.jpg" alt="" class="slide-image">
+            <p>Deal chớp nhoáng</p>
+        </div>
+        <div class="one-item" style="margin-left: 40px;">
+            <img src="assets/img/blackFriday.jpg" alt="" class="slide-image">
+            <p>Black Friday trúng Iphone 16 Pro Max</p>
+        </div>
+    </div>
+    
+    <div class="container-main">
+        
+    
+        <div class="two">
+            <div class="two-item"> 
+                <div class="two-info">
+                    <div class="user-profile">
+                        <img src="assets/img/user.jpg" alt="" class="profile-image">
+                        <div class="user-details">
+                        <p>{{this.user_name}}</p>
+                        <p>{{this.phone}}</p>
+                    </div>
+                    <div>
+                        <!-- <a [routerLink]="['/home/user/updateUser/', this.user_id]" [routerLinkActive]="'active-link'">Cập nhật thông tin</a>
+                        <br>
+                        <a [routerLink]="['/home/user/updatePW/', this.user_id]" [routerLinkActive]="'active-link'">Cập nhật mật khẩu</a> -->
+                    </div>
+                    </div>
+                    <div class="detail-info">
+                        <div class="detail-infox">
+                            <div>
+                                <h6>Quý khách chưa là thành viên tại Shop</h6>
+                            <p>Quan tâm Zalo Shop để kích hoạt điểm thưởng</p>
+                            </div>
+                            <div>
+                                <img src="assets/img/shop1.jpg" alt="" class="profile-image" style="height: 110px; width: 80px;">
+                            </div>
+                        </div>
+                        <button>Quan tâm ngay</button> 
+                    </div>
+                </div>
+                <div class="menu-bar">
+                    <div class="menu-bar-main">
+                        <a><i class="far fa-heart"></i> <p>Khách hàng thân thiết</p></a>
+                        <a><i class="far fa-address-card"></i><p>Sổ địa chỉ nhận hàng</p></a>
+                        <a (click)="logout()"><i class="fas fa-sign-out-alt" ></i><p>Đăng xuất</p></a>
+                    </div>
+                </div>
+            </div>
+    
+        </div>
+
+        <div class="two">
+            <h3>Đơn hàng của tôi</h3>
+
+            <div class="twoo">
+                <a>Tất cả</a>
+                <a>Đang xử lý</a>
+                <a>Đang giao</a>
+                <a>Hoàn tất</a>
+                <a>Đã hủy</a>
+                <a>Trả hàng</a>
+            </div>
+          
+<!-- 
+          <div class="twox">
+            <div class="order-item" *ngFor="let order of orders">
+              <div class="twoxx">
+                <p>{{ order.create_at | date: 'dd-MM-yyyy' }}</p>
+                <p>{{ this.number }} sản phẩm</p> 
+              </div>
+              <div class="dt">
+                <div class="dt-pr">
+                  <div style="margin-left: 40px; display: flex; gap: 40px;">
+                    <div class="anh">
+                      <img (click)="viewOrderDetails(this.orderDetail.order_id)" [src]="PathAnh + this.product.image_url" />
+                    </div>
+                    <div style="margin-top: 30px; width: 100px;">
+                      <strong style="font-size: larger;">{{ this.product.product_name }}</strong>
+                      <br />
+                      <strong style="color: gray; font-size: medium;">Số lượng: {{ this.number }}</strong>
+                    </div>
+                  </div>
+                </div> -->
+        
+<!--               
+                <div class="tien" style="margin-left: 100px;">
+                  <strong style="margin-top: 60px;">{{ order.total_amount | currency: 'USD' }}</strong>
+                  <br />
+                  <label for="" style="margin-top: 20px; color: brown; font-weight: bold;">
+                    Thành tiền: {{ order.total_amount }}
+                  </label>
+                </div>
+              </div>
+              <div class="an">
+                <div>
+                  <label> Bạn cần hỗ trợ? Liên hệ ngay với chúng tôi. </label>
+                </div>
+                <div>
+                  <button>Hỗ trợ</button>
+                </div>
+              </div>
+            </div>
+          </div> -->
+          
+        
+            <ng-template #noOrders>
+              <p>No orders found for this customer.</p>
+            </ng-template>
+          </div>
+          
+          
+
+    </div>
+</div>
+
+
+
+

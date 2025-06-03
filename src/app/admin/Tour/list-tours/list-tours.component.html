@@ -1,0 +1,118 @@
+<div class="intro-touroneday">
+    <h4>Danh sách các tour du lịch một ngày và dài ngày tại QuyNhon Tour.</h4>
+    <div class="create-button">
+      <!-- Button trigger modal -->
+      <!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" (click)="themTour()">
+        Thêm Tour
+      </button> -->
+      <button type="button" class="btn btn-primary" [routerLink]="['/admin/tours/create']" data-bs-toggle="modal" data-bs-target="#exampleModal" >
+        Thêm Tour
+      </button>
+  </div>
+</div>
+
+    
+    <div class="modal fade" id="addModal" tabindex="-1" aria-labelledby="addModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+    
+          <!-- Modal Header -->
+          <div class="modal-header">
+            <h5 class="modal-title" id="addModalLabel">Sửa Tour Mới</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+    
+          </div>
+    
+          <!-- Modal Body -->
+          <div class="modal-body" >
+            <form *ngIf="selected_tour" (ngSubmit)="suaTour()">
+
+              <!-- Image Preview -->
+              <div *ngIf="anh && anh.trim().length > 0">
+                <img [src]="photosUrl + '/' + anh" alt="Image Preview" width="100" />
+              </div>
+            
+              <!-- Upload Image -->
+              <div>
+                <label for="image">Upload Image</label>
+                <input type="file" id="image" (change)="uploadPhoto($event)" />
+              </div>
+            
+              <!-- Tên tour -->
+              <div>
+                <label>Tên: </label>
+                <input class="form-control" [(ngModel)]="Ten" name="Ten" />
+              </div>
+            
+              <!-- Danh mục -->
+              <div>
+                <label>Danh mục: </label>
+                <select class="form-control" [(ngModel)]="category_id" name="category_id" >
+                  <option *ngFor="let loai of DsDanhmuc" value="{{loai.category_id}}">{{loai.name}}</option>
+                </select>
+              </div>
+            
+              <!-- Nơi xuất phát -->
+              <div>
+                <label>Điểm xuất phát: </label>
+                <input class="form-control" [(ngModel)]="NoiXuatPhat" name="NoiXuatPhat" />
+              </div>
+            
+              <!-- Nơi đến -->
+              <div>
+                <label>Điểm đến: </label>
+                <input class="form-control" [(ngModel)]="NoiDen" name="NoiDen" />
+              </div>
+            
+              <!-- Thời gian -->
+              <div>
+                <label>Thời gian: </label>
+                <input class="form-control" [(ngModel)]="ThoiGian" name="ThoiGian" />
+              </div>
+            
+              <!-- Giá -->
+              <div>
+                <label>Giá: </label>
+                <input class="form-control" [(ngModel)]="Gia" name="Gia" />
+              </div>
+            
+              <!-- Nút cập nhật -->
+              <div style="text-align: center; margin-top: 10px;">
+                <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Cập Nhật</button>
+              </div>
+            
+            </form>            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  <div class="tour-oneday" *ngIf="(paginatedProducts.length > 0); else noToursFound">
+    <div *ngFor="let tour of paginatedProducts" class="tour">
+      <a href="#" [routerLink]="['/admin/tours/detail', tour.Id]" [routerLinkActive]="'active-link'">
+        <img [src]="tour.PathAnh">
+        <h5>{{tour.Ten}}</h5>
+        <span>Nơi xuất phát: {{tour.NoiXuatPhat}}</span>
+        <span>Nơi đến: {{tour.NoiDen}}</span> <br>
+        <span>Lịch trình: {{tour.ThoiGian}}</span>
+        <span>Khởi hành: Hàng ngày</span>
+        <h4><i class="fa-regular fa-heart"></i> {{tour.Gia}}/người</h4>
+      </a>
+        <div class="button-sua-xoa">
+          <button type="button" class="btn btn-primary" (click)="editProduct(tour)" data-bs-toggle="modal" data-bs-target="#addModal">Sửa</button>
+          <button type="button" class="btn btn-primary" (click)="xoaTour(tour.Id)" style="margin-left: 30px;">Xóa</button>
+        </div>
+    </div>
+  </div>
+
+  <ng-template #noToursFound>
+    <div class="text-center text-danger mt-4">
+      <h5>Không tìm thấy tour nào phù hợp với từ khóa "{{ searchText }}"</h5>
+    </div>
+  </ng-template>
+  
+  <div class="pagination-controls">
+    <button class="btn btn-secondary" (click)="previousPage()" [disabled]="currentPage === 1">Trước</button>
+    <span>Trang {{ currentPage }} / {{ totalPages }}</span>
+    <button class="btn btn-secondary" (click)="nextPage()" [disabled]="currentPage === totalPages">Tiếp</button>
+  </div>

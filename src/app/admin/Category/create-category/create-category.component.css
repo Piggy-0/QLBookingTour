@@ -1,0 +1,13 @@
+.create-form{
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: rgb(231, 228, 228);
+    padding: 30px 30px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px rgba(185, 182, 182, 0.5);
+  }
+  .create-form label{
+    font-weight: bold;
+  }
+  
+  

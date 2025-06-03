@@ -1,0 +1,49 @@
+<nav style="margin-top: 20px; margin-left: 30px;" class="breadcrumb">
+    <a class="breadcrumb-link" (click)="goBack2()">Trang Chủ</a>
+    <span class="breadcrumb-separator">›</span>
+    <a class="breadcrumb-link" (click)="goBack()" >List Order</a>
+</nav>
+<div class="invoice-container" *ngIf="donhang">
+    <div class="invoice-card">
+      <div class="invoice-header">
+        <h2>🧾 Hóa đơn Tour du lịch</h2>
+      </div>
+      <div class="invoice-body">
+        <div class="invoice-row">
+          <span class="label">Trạng thái đơn hàng:</span>
+          <span class="value">{{ donhang.order_status }}</span>
+        </div>
+        <div class="invoice-row">
+          <span class="label">Tên khách hàng (Anh/Chị):</span>
+          <span class="value">{{ donhang.Name }}</span>
+        </div>
+        <div class="invoice-row">
+          <span class="label">Số điện thoại:</span>
+          <span class="value">{{ donhang.sdt }}</span>
+        </div>
+        <div class="invoice-row">
+          <span class="label">Số lượng khách:</span>
+          <span class="value">{{ donhang.SoLuong }}</span>
+        </div>
+        <div class="invoice-row">
+          <span class="label">Ngày khởi hành:</span>
+          <span class="value">{{ donhang.NgayKhoiHanh | date:'dd/MM/yyyy' }}</span>
+        </div>
+        <div class="invoice-row">
+          <span class="label">Tour:</span>
+          <span class="value">{{donhang.IDTour }}</span>
+        </div>
+        <div class="invoice-row">
+          <span class="label">Phương tiện:</span>
+          <span class="value">{{donhang.IDXe }}</span>
+        </div>
+      </div>
+  
+      <!-- Thanh toán hiển thị ở dòng riêng, dưới cùng -->
+      <div class="invoice-footer">
+        <span class="label">💵 Tổng thanh toán:</span>
+        <span class="price">{{ donhang.Gia | number }} VNĐ</span>
+      </div>
+    </div>
+  </div>
+  

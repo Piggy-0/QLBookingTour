@@ -1,0 +1,226 @@
+.outer-container {
+    background-color: #f0f0f0; /* Màu nền bên ngoài */
+    padding: 20px; /* Khoảng cách giữa nội dung và viền */
+}
+.one {
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 35px;
+    margin-right: 35px;
+    border-radius: 10px;
+    display: flex; 
+    gap: 20px; 
+    padding-left: 10px;
+    /* padding-top: 10px;
+    
+    padding-bottom: 10px; */
+  }
+.one-item {
+    display: flex; 
+    align-items: center; 
+    gap: 20px; 
+  }
+p {
+    margin-top: 10px;
+    font-size: 16px; 
+    color: #333; 
+    font-weight: bold;
+  }
+
+  .user-details p {
+    margin: 0; /* Xóa margin mặc định của thẻ p */
+    padding: 0; /* Xóa padding mặc định nếu có */
+}
+  .container-main{
+    /* background-color: white; */
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 35px;
+    border-radius: 10px;
+}
+.two-info{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 10px;
+    width: 320px;
+}
+.user-profile{
+    display: flex; 
+    align-items: center; 
+    gap: 20px; 
+}
+
+.user-profile a {
+    text-decoration: none;
+    font-size: small;
+    background-color: rgb(214, 214, 255);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 3px 3px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.user-profile a:hover {
+    background-color: rgb(247, 214, 220);
+    transform: translateY(-5px); /* Di chuyển phần tử lên 5px */
+}
+
+.two-info img{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+}
+.detail-info{
+    background-color: pink;
+    margin-top: 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    
+}
+.detail-infox{
+    display: flex; 
+    align-items: center; 
+    gap: 20px;
+}
+
+.detail-infox img{
+    height: 90px;
+    width: 50x;
+}
+.detail-info button{
+    background-color: rgb(230, 79, 79);
+    border-radius: 10px;
+    border: none;
+    padding: 6px 6px;
+    font-weight: bold;
+    color: white;
+}
+.menu-bar{
+    background-color: white;
+    width: 320px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.menu-bar-main a {
+    display: block; /* Đảm bảo mỗi <a> nằm trên một dòng */
+    margin-bottom: 10px; /* Khoảng cách giữa các thẻ a */
+    padding: 10px; /* Padding mặc định */
+    text-decoration: none; /* Xóa gạch chân mặc định của liên kết */
+    color: inherit; /* Đảm bảo màu chữ không thay đổi khi hover */
+    transition: background-color 0.1s ease, border-left 0.1s ease; /* Thêm hiệu ứng chuyển động cho background-color và border-left */
+}
+
+.menu-bar-main a:hover {
+    background-color: pink; /* Màu nền khi hover */
+    border-left: 3px solid palevioletred; /* Border trái khi hover */
+}
+.menu-bar-main a i {
+    font-size: 20px; /* Kích thước icon */
+    margin-right: 10px; /* Khoảng cách giữa icon và text */
+    vertical-align: middle; /* Căn chỉnh icon với văn bản */
+}
+
+.menu-bar-main a p {
+    display: inline; /* Đảm bảo text nằm ngang với icon */
+    vertical-align: middle; /* Căn chỉnh text với icon */
+    margin: 0; /* Xóa margin mặc định */
+    font-size: 15px; /* Cỡ chữ của text */
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+
+.container-main {
+    display: flex; /* Sử dụng flexbox để các phần tử con nằm ngang */
+    gap: 20px; /* Khoảng cách giữa các .two */
+}
+.twox{
+    background-color: white;
+    width: 890px;
+    border-radius: 10px;
+}
+.twoo{
+    background-color: white;
+    margin-bottom: 5px;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.twoo a {
+    margin-right: 70px; /* Khoảng cách bên phải giữa các thẻ <a> */
+    text-decoration: none; /* Xóa gạch chân mặc định */
+    color: black; /* Màu chữ */
+    font-weight: bold; /* Tô đậm chữ */
+}
+.twoo a:hover{
+    color: rgb(197, 10, 10);
+}
+
+/* Xóa khoảng cách cho thẻ cuối cùng (tùy chọn) */
+.twoo a:last-child {
+    margin-right: 0;
+}
+.twoo a:first-child{
+    margin-left: 60px;
+}
+.twoxx{
+    display: flex; /* Sử dụng flexbox để căn ngang */
+    align-items: center; /* Căn chỉnh các mục theo chiều dọc */
+    gap: 20px; /* Khoảng cách giữa các thẻ <p> */
+    margin-left: 20px;
+    border-bottom: 1px solid gray;
+}
+.anh img{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.dt-pr{
+    display: flex; /* Sử dụng flexbox để căn ngang */
+    align-items: center; /* Căn chỉnh các mục theo chiều dọc */
+    gap: 20px; /* Khoảng cách giữa các thẻ <p> */
+}
+.dt{
+    display: flex; /* Sử dụng flexbox để căn ngang */
+    align-items: center; /* Căn chỉnh các mục theo chiều dọc */
+    gap: 280px; /* Khoảng cách giữa các thẻ <p> */
+    padding-bottom: 10px;
+}
+.an{
+    display: flex; /* Sử dụng flexbox để căn ngang */
+    align-items: center; /* Căn chỉnh các mục theo chiều dọc */
+    gap: 450px; /* Khoảng cách giữa các thẻ <p> */
+    padding: 10px 10px;
+    border-top: 1px solid gray;
+}
+.an button{
+    background-color: rgb(230, 79, 79);
+    border-radius: 10px;
+    border: none;
+    padding: 6px 6px;
+    font-weight: bold;
+    color: white;
+    width: 80px;
+}
+
+
+    /* Breadcrumb Container */
+    .breadcrumb {
+        display: flex;
+        align-items: center;
+        padding: 10px 20px;
+        border-radius: 5px;
+    
+      }
+    
+      
+      .breadcrumb-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #0275d8; /* Blue color for the link */
+        text-decoration: none; /* Remove underline from links */
+        transition: color 0.3s ease; /* Smooth transition on hover */
+      }
+
+     

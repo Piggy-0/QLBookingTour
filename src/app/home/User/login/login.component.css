@@ -1,0 +1,110 @@
+.outer{
+  background-color: #f0f0f0;
+}
+.login-container {
+  background-image: url('../../../../assets/img/tournhieungay1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.login-container form {
+  background-color: rgba(236, 247, 248, 0.8);
+  padding: 20px;
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hiệu ứng hover cho form */
+.login-container form:hover {
+  transform: translateY(-5px); /* Khi hover vào form, sẽ nhảy lên */
+}
+
+.login-container form label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: larger;
+  color: #4CAF50;
+}
+
+.login-container form input[type="text"],
+.login-container form input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  transition: transform 0.2s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+/* Khi hover vào input, sẽ nhảy lên */
+.login-container form input[type="text"]:hover,
+.login-container form input[type="password"]:hover {
+  transform: translateY(-3px); /* Nhảy lên nhẹ */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Thêm hiệu ứng bóng */
+}
+
+/* Khi focus vào input, sẽ thay đổi màu viền */
+.login-container form input:focus {
+  outline: none;
+  border: 1px solid #4CAF50;
+  box-shadow: 0 0 8px rgba(76, 175, 80, 0.5);
+}
+
+/* Nút submit */
+.login-container form button[type="submit"] {
+  width: 150px;
+  height: 50px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hiệu ứng hover cho nút submit */
+.login-container form button[type="submit"]:hover {
+  transform: translateY(-5px); /* Nhảy lên khi hover */
+  background-color: #45a049; /* Màu khi hover */
+}
+
+/* Link đăng ký */
+.login-container form a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #e61313;
+}
+
+.login-container form a:hover {
+  text-decoration: underline;
+}
+
+
+  /* Breadcrumb Container */
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+  }
+
+  
+  .breadcrumb-link {
+    font-size: 16px;
+    font-weight: 500;
+    color: #0275d8; /* Blue color for the link */
+    text-decoration: none; /* Remove underline from links */
+    transition: color 0.3s ease; /* Smooth transition on hover */
+  }

@@ -1,0 +1,68 @@
+/* Căn chỉnh tổng thể */
+div {
+  max-width: 700px;
+  margin: 20px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+/* Tiêu đề */
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+/* Nút tạo báo cáo */
+button {
+  display: block;
+  margin: 0 auto 5px auto;
+  padding: 10px 20px;
+  background-color: #007bff; /* màu xanh */
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Thông báo */
+p {
+  text-align: center;
+  color: #e74c3c; /* màu đỏ cảnh báo */
+  min-height: 20px;
+}
+
+/* Bảng */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Header bảng */
+thead {
+  background-color: #34495e;
+  color: #ecf0f1;
+  font-weight: 600;
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Hover dòng bảng */
+tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* Dòng chẵn */
+tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}

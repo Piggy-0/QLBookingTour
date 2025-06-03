@@ -1,0 +1,100 @@
+<div class="container-body">
+    <div>
+      <div class="container-search">
+        <span>TÌM KIẾM</span> <br>
+        <label style="padding-top: 10px;">Điểm đi</label>
+        <input type="text" placeholder="Từ Quy Nhơn" readonly> <br>
+        <label>Điểm đến</label>
+        <input type="text" name="searchText" [(ngModel)]="searchText" placeholder="Tìm kiếm"> <br>
+        <button type="button" (click)="timkiem()">Tìm kiếm</button>
+      </div>
+      <div class="container-searchDM">
+        <span>THEO DANH MỤC</span> <br>
+        <a *ngFor="let loai of ListCategories" [routerLink]="['/home/tour/TourDM',loai.category_id]" [routerLinkActive]="'active-link'"><i style="padding-top: 10px;" class="fa-solid fa-check"></i> {{loai.name}} <br> </a>
+        <!-- <i class="fa-solid fa-check"></i>
+        <a [routerLink]="['/tour/TourDM/2']" [routerLinkActive]="'active-link'"> Tour Nhiều Ngày</a> -->
+      </div>
+    </div>
+  <!-- Danh sách Tour -->
+    <div>
+      <div class="container" >
+          <div *ngFor="let tour of tourSearch.length > 0 ? tourSearch : DSTour" class="container-main">
+          <div class="photo">
+             <a [routerLink]="['/home/tour/detail', tour.Id]" [routerLinkActive]="'active-link'">
+              <img [src]="tour.PathAnh">
+            </a>
+          </div>
+          <div class="main">
+            <div class="content1">
+              <div>
+                <h5>{{tour.Ten}}</h5>
+              </div>
+              <div class="sale">
+                <h6>Tiết kiệm 5%</h6>
+              </div>
+            </div>
+            <div class="content2">
+              <div class="item1">
+                <span><i class="fa-solid fa-house"></i> Điểm khởi hành: {{tour.NoiXuatPhat}}</span> <br>
+                <span><i class="fa-solid fa-car"></i> Điểm đến: {{tour.NoiDen}}</span> <br>
+                <span><i class="fas fa-clock"></i> Lịch trình: {{tour.ThoiGian}}</span> <br>
+                <span><i class="fa-regular fa-calendar-days"></i> Khởi hành: Theo yêu cầu</span>
+                <h4><i class="fa-regular fa-heart"></i> {{tour.Gia}}</h4>
+              </div>
+              <div class="item2">
+                <button type="submit" data-bs-toggle="modal" data-bs-target="#exampleModal" (click)="chonTour(tour)">GỬI YÊU CẦU</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+   <!-- Đặt tour -->
+   <div class="create-button">
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" *ngIf="userService.getCurrentUser()">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="exampleModalLabel">ĐẶT TOUR</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" (click)="dong()"></button>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-sm-7">
+                <div class="row form-group">
+                  <label class="col-sm-4">Tên khách hàng: </label>
+                  <div class="col-sm-9">
+                    <input class="form-control" [(ngModel)]="name"></div>
+                </div>
+                </div>
+                <div class="row form-group">
+                  <label class="col-sm-4">Số điện thoại: </label>
+                  <div class="col-sm-9"><input class="form-control" [(ngModel)]="sdt"></div>
+                </div>
+                <div class="row form-group">
+                  <label class="col-sm-4">Số lượng khách: </label>
+                  <div class="col-sm-9"><input class="form-control" [(ngModel)]="soLuong"></div>
+                </div>
+                <div class="row form-group">
+                  <label class="col-sm-4">Ngày khởi hành: </label>
+                  <div class="col-sm-9"><input type="date" [(ngModel)]="ngayKhoiHanh" name="ngayKhoiHanh" required></div>
+                </div>
+                </div>
+                <div class="row form-group">
+                  <label class="col-sm-4">Chọn phương tiện: </label>
+                  <div class="col-sm-9">
+                    <select class="form-control" [(ngModel)]="idXe" name="IDXe" >
+                      <option *ngFor="let v of DSVehicle" value="{{v.Id}}">{{v.Name}} </option>
+                    </select>
+                </div>
+            </div>
+            <br>
+            <div class="">
+              <button style="margin-left: 200px;" class="btn btn-primary" (click)="themTour()" >Thêm</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

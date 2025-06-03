@@ -1,0 +1,96 @@
+.col-md-6 {
+    display: flex; /* Sắp xếp các phần tử theo hàng ngang */
+    align-items: center; /* Căn giữa các phần tử theo chiều dọc */
+  }
+  
+  .col-md-6 input.form-control {
+    margin-left: 50px;
+    margin-top: 10px;
+    flex: 1; /* Cho phép ô nhập liệu chiếm tối đa không gian */
+    padding: 5px; /* Tạo khoảng cách bên trong cho ô nhập liệu */
+
+    border: 1px solid #ccc; /* Đường viền nhẹ */
+    border-radius: 5px; /* Bo tròn góc */
+    outline: none; /* Xóa viền khi chọn */
+    transition: all 0.3s ease-in-out; /* Hiệu ứng khi hover hoặc focus */
+  }
+  
+  .col-md-6 input.form-control:focus {
+    border-color: #007bff; /* Đổi màu viền khi focus */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Tạo hiệu ứng đổ bóng */
+    
+  }
+  
+  .col-md-6 button {
+    margin-top: 10px;
+    padding: 10px 15px; /* Khoảng cách bên trong */
+    color: rgb(12, 3, 3); /* Màu chữ */
+    background-color: transparent; /* Xóa màu nền */
+    border: none; /* Xóa đường viền */
+    cursor: pointer; /* Thay đổi con trỏ khi hover */
+    outline: none; /* Xóa đường viền khi chọn */
+  }
+  
+  .them{
+    margin-top: 30px;
+    margin-left: 60px;
+  }
+  form label{
+    font-weight: bold;
+  }
+  h5{
+    color: blue;
+  }
+  td{
+    text-align: center;
+  
+  }
+
+
+  .table.table-hover td,
+  .table.table-hover th {
+    border: 1px solid #ddd; /* Màu viền */
+    padding: 8px;
+  }
+  .table.table-hover th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #78a5a5; /* Màu chính */
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    unicode-bidi: isolate;
+  }
+
+
+
+
+
+/* Table */
+.table {
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.table.table-hover {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+  
+h3 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  text-align: center;
+  
+}
+
+
+  
+  
+
+  

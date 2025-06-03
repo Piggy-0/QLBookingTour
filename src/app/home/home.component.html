@@ -1,0 +1,122 @@
+
+<div data-spy="scroll" data-target="#site-nav">
+    <div class="menu-container">
+      <nav class=" menu navbar navbar-expand-sm">
+      <div class="container">
+              <!-- logo -->
+              <div class="navbar-brand">
+                  <a class="logo" href="trang-chu.component.html">
+  
+                      <!-- logo image  -->
+                      <img src="../../assets/img/logotravel.png" alt="Logo" height="40px" width="40px">
+                  </a>
+              </div><!-- /.navbar-header -->
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar"   >
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="mynavbar">
+                <ul style=" padding-left: 330px;" class="navbar-nav me-auto">
+                  <!-- navigation menu -->
+                  <li class="nav-item"><a class="nav-link" data-scroll [routerLink]="['/home/homepage']"
+                    [routerLinkActive]="'active-link'">TRANG CHỦ</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#gioithieu">GIỚI THIỆU</a></li>
+                  <li class="nav-item"><a class="nav-link" [routerLink]="['/home/tour/list']"
+                    [routerLinkActive]="'active-link'" >TOUR QUY NHƠN</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#camnang">CẨM NANG DU LỊCH</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#khachhang">KHÁCH HÀNG</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#lienhe">LIÊN HỆ</a></li>
+              </ul>
+
+              </div>
+      </div>
+
+      <ul class="navbar-nav ms-auto ms-md-0 me-3 me-lg-4">
+        <li class="nav-item dropdown" *ngIf="!isLogIn; else loggedInDropdown">
+            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
+            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" routerLink="/login">Login</a></li>
+                <li><a class="dropdown-item" routerLink="/home/user/register">Register</a></li>
+            </ul>
+        </li>
+      
+        <ng-template #loggedInDropdown>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown"
+                    aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" (click)="logout()">Logout</a></li>
+                </ul>
+            </li>
+        </ng-template>
+      </ul>
+      
+      <!-- <ul class="navbar-nav ms-auto ms-md-0 me-3 me-lg-4">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                <li>
+                    <a class="dropdown-item"  (click)="logout()">Logout</a></li>
+            </ul>
+        </li>
+    </ul> -->
+            
+  </nav>
+  <div class="container-demo">
+    <ul>
+      <span>BẠN DỰ ĐỊNH ĐI ĐÂU TẠI QUY NHƠN?</span>
+      <div class="container-text">
+        <div class="text-slider">
+          <div class="slide-item">EO GIÓ</div>
+          <div class="slide-item">PHÚ YÊN</div>
+          <div class="slide-item">TÂY SƠN</div>
+          <div class="slide-item">KỲ CO</div>
+          <div class="slide-item">HÒN KHÔ</div>
+        </div>
+      </div>
+      <h4>Đặt ngay các Tour Quy Nhơn Go để có một chuyến đi thoải mái và tiết kiệm nhất</h4>
+    </ul>
+  </div>
+  <div class="search">
+        <input class="noidi" type="text" name="noidi" placeholder="Từ Quy Nhơn" readonly/>
+        <!-- <i class="fas fa-location-dot"></i> -->
+        <input type="text" name="searchText" [(ngModel)]="searchText" placeholder="Bạn muốn đi đâu?"/>
+        <button type="submit" (click)="timkiem()" >Tìm tour</button>
+  </div>
+  </div>
+  
+  <div>
+    <router-outlet></router-outlet>
+  </div>
+  
+  <!-- Footer -->
+  <footer>
+  <div class="container-footer">
+  <div class="footer">
+    <div><img src="../../assets/img/logotravel.png" alt=""></div>
+    <div class="footer-info1">
+      <span>Quy Nhơn Go Travel - Đơn vị cung cấp land tour hàng
+         đầu tại Quy Nhơn - Phú Yên, chúng tôi luôn nỗ lực từng ngày để
+      đem đến những sản phẩm du lịch mới mẻ và chất lượng dịch vụ tốt
+      nhất tới Quý khách hàng và đối tác</span>
+    </div>
+  </div>
+  <div class="footer2">
+    <h4>BẠN CẦN TƯ VẤN?</h4>
+    <h2>0899 0899 40</h2>
+    <span>
+      Tổng đài hỗ trợ 24/7 Hoặc gửi email về địa chỉ quynhongogmail.com.
+      Chúng tôi sẽ phản hồi trong vòng 24h</span>
+  </div>
+  <div class="footer">
+    <h4>CÔNG TY TNHH DU LỊCH QUY NHƠN GO (QUY NHON GO TRAVEL)</h4>
+    <span>Trụ sở chính: 11A Chương Dương, P.Nguyễn Văn Cừ, Tp.Quy Nhơn, Bình Định.</span> <br>
+    <span>Email: infoquynhongo.vn - quynhongogmail.com</span> <br>
+    <span>Hotline: (0256)6 55 59 59 - 0899 0899 40</span>
+  </div>
+  </div>
+  </footer>
+  
+  
+  

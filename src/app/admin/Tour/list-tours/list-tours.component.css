@@ -1,0 +1,89 @@
+
+/* css tour */
+.container-touroneday{
+    margin-top: 50px;
+    text-align: left;
+  }
+  .create-button button{
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 10px 10px;
+    width: 150px;
+  }
+  .container-touroneday h4{
+    margin-left: 50px;
+    color: rgb(57, 57, 241);
+  }
+  .container-touroneday a{
+    font-size: 15px;
+  }
+  .tour-oneday {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 cột có chiều rộng bằng nhau */
+    grid-gap: 15px; /* Khoảng cách giữa các cột */
+    height: auto;
+    margin-left: 20px;
+  
+  }
+  .tour-oneday .tour a{
+    text-decoration: none;
+  }
+  .tour-oneday .tour{
+    border: 1px solid rgb(155, 152, 152);
+    border-radius: 20px;
+    width: 350px;
+  }
+  .tour-oneday .tour h5, span, h4{
+    padding: 10px;
+  }
+  .tour-oneday .tour h5{
+    color: #1c19ca;
+  }
+  .tour-oneday .tour span{
+    margin-left: 15px;
+    font-size: 13px;
+  }
+  .tour-oneday .tour h4{
+    color: rgb(172, 18, 18);
+    text-align: right;
+  }
+  .tour-oneday .tour img {
+    height: 200px;
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+  .tour-oneday .tour:hover img{
+    filter: brightness(70%);
+  }
+  .tour-oneday .tour:hover h5{
+    color: #fdb417;
+  }
+  .tour-oneday .tour:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  .button-sua-xoa button{
+    margin-left: 60px;
+    margin-bottom: 20px;
+    width: 100px;
+  }
+  h4{
+    color: blue;
+    margin-top: 10px;
+    margin-left: 30px;
+  }
+  
+  
+  .pagination-controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination-controls button {
+    margin: 0 10px;
+  }
+  
+  
+  

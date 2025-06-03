@@ -1,0 +1,87 @@
+/* Modal */
+.modal-content {
+    border-radius: 10px; /* Bo tròn góc */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Đổ bóng */
+    transform: scale(0.9); /* Scale nhỏ modal */
+    transition: transform 0.3s ease; /* Hiệu ứng chuyển đổi */
+  }
+  
+  .modal-content:hover {
+    transform: scale(1); /* Khi hover, scale modal lớn hơn */
+  }
+  
+  .modal-header {
+    background-color: #065d8fdc; /* Màu nền header */
+    color: #fff; /* Màu chữ header */
+    border-top-left-radius: 20px; /* Bo tròn góc header */
+    border-top-right-radius: 20px;
+  }
+  
+  .modal-title {
+    font-weight: bold; /* Đậm */
+  }
+  
+  .modal-body {
+    padding: 20px; /* Padding cho nội dung modal */
+  }
+  
+  .modal-footer {
+    border-bottom-left-radius: 10px; /* Bo tròn góc footer */
+    border-bottom-right-radius: 10px;
+  }
+  
+  .btn-close {
+    color: #fff; /* Màu chữ nút close */
+  }
+  
+  .btn-danger {
+    background-color: #dc3545; /* Màu nền nút cập nhật */
+    border: none; /* Không border */
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333; /* Màu nền khi hover */
+  }
+  
+  /* Table */
+  .table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+    width: 1100px;
+  }
+  
+  .table.table-hover {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+  }
+  
+  .table.table-hover th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #6e8dc7; /* Màu chính */
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    unicode-bidi: isolate;
+  }
+  
+  .table.table-hover td,
+  .table.table-hover th {
+    border: 1px solid #ddd; /* Màu viền */
+    padding: 8px;
+  }
+  
+  .sua-xoa{
+    text-align: center;
+  }
+  
+  td{
+    text-align: center;
+  
+  }
+  td a{
+    text-decoration: none;
+  }
+  

@@ -1,0 +1,28 @@
+<div>
+  <h2>Lịch sử báo cáo</h2>
+  <button (click)="createReport()">Tạo báo cáo tháng</button>
+  <p>{{ message }}</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>STT</th>
+        <th>Số đơn</th>
+        <th>Doanh thu</th>
+        <th>Ngày tạo</th>
+        <th>Thao tác</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let r of reports; index as i">
+        <td>{{ i + 1 }}</td>
+        <td>{{ r.SoDon }}</td>
+        <td>{{ r.DoanhThu | currency:'VND':'symbol':'1.0-0' }}</td>
+        <td>{{ r.NgayTaoBaoCao }}</td>
+        <td>
+          <button (click)="deleteReport(r.Id)">Xóa</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

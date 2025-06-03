@@ -1,0 +1,71 @@
+<nav style="margin-top: 20px; margin-left: 30px;" class="breadcrumb">
+    <a class="breadcrumb-link" (click)="goBack2()">Trang Chủ</a>
+    <span class="breadcrumb-separator">›</span>
+    <a class="breadcrumb-link" (click)="goBack()" >List Tour</a>
+</nav>
+<div class="container-detail" *ngIf="tour">
+    <div class="title">
+      <h3>{{tour.Ten}}  <i class="fa-solid fa-star"></i>  <i class="fa-solid fa-star"></i>  <i class="fa-solid fa-star"></i>  <i class="fa-solid fa-star"></i>  <i class="fa-solid fa-star"></i></h3>
+    </div>
+    <div class="container-main">
+      <div class="photo">
+        <img style="height: 380px; width: 700px;" [src]="tour.PathAnh">
+      </div>
+      <div class="content">
+        <div class="sale">
+          <span>Tiết kiệm</span>
+          <h5>6%</h5>
+        </div>
+        <div class="main">
+          <h4>Giá từ: {{tour.Gia}}/người</h4>
+        <span><i class="fas fa-location-dot"></i> Từ: {{tour.NoiXuatPhat}}</span>
+        <span><i class="fas fa-car"></i> Đi: {{tour.NoiDen}}</span> <br>
+        <span><i class="fas fa-clock"></i> {{tour.ThoiGian}}</span>
+        </div>
+        <div class="diemnoibat">
+          <h5>Điểm nổi bật:</h5>
+          <div>
+            <i class="fa-solid fa-check"></i>
+            <span> Quà tặng phao thiên nga khổng lồ, phao nhúng khi lặn san hô</span>
+          </div>
+          <div>
+            <i class="fa-solid fa-check"></i>
+            <span> Trượt cát cho nhóm tổ chức riêng</span>
+          </div>
+          <div>
+            <i class="fa-solid fa-phone"></i>
+            <span> Liên hệ: 0339716273</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="descript">
+    <div class="item1">
+      <h4>GIÁ TOUR BAO GỒM:</h4>
+      <div>
+        <li>Xe ô tô đời mới theo lịch trình</li>
+        <li>Cano siêu tốc khứ hồi phục vụ theo chương trình</li>
+        <li>Bữa trưa hải sản theo chương trình</li>
+        <li>Dụng cụ lặn ngắm san hô: Áo phao, Kính lặn</li>
+        <li>Vé Cầu tình yêu (Cầu Hang Yến)</li>
+        <li>Vé vào bãi tắm Kỳ Co</li>
+        <li>Show biểu diễn xiếc Hải Cẩu</li>
+        <li>Dịch vụ tắm tráng nước ngọt</li>
+      </div>
+    </div>
+    <div class="item2">
+      <h4>ĐIỀU KHOẢN VÀ QUY ĐỊNH:</h4>
+      <div>
+        <span>CHÍNH SÁCH ƯU ĐÃI DÀNH CHO TRẺ EM:</span>
+        <li>2 người lớn miễn phí 1 trẻ em dưới 5 tuổi, trẻ thứ 2 tính 50%.</li>
+        <li>Trẻ em từ 5 – 10 tuổi, tính 50% chi phí người lớn</li>
+        <li>Trẻ từ 10 tuổi trở lên, tính bằng chi phí người lớn.</li>
+      </div>
+      <span>LƯU Ý:</span>
+      <li>Quý khách chuẩn bị thêm quần áo gọn nhẹ, dép lào hoặc dép để đi biển</li>
+      <li>Cung cấp đầy đủ thông tin theo yêu cầu đề công ty đăng ký bảo hiểm</li>
+      <li>Bắt buộc phải mặc áo phao</li>
+    </div>
+  </div>

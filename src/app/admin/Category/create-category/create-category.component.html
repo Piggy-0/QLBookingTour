@@ -1,0 +1,12 @@
+<form class="create-form" (ngSubmit)="themDanhmuc()" style="margin-top: 100px;">
+    <div class="mb-3">
+      <label for="Name" class="form-label">Tên Danh Mục</label>
+      <input type="text" class="form-control" id="Name" [(ngModel)]="name" name="Name" required>
+    </div>
+    <div class="mb-3">
+      <label for="Description" class="form-label">Mô tả</label>
+      <textarea class="form-control" id="Description" [(ngModel)]="description" name="Description" rows="3" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm Danh Mục</button>
+  </form>
+  

@@ -1,0 +1,166 @@
+/* CSS Search */
+.container-body{
+  display: flex;
+}
+.container-search{
+  margin-top: 50px;
+  margin-left: 60px;
+  background-color: rgb(230, 230, 208);
+  height: 250px;
+  width: 250px;
+  padding: 20px 20px;
+}
+.container-search span{
+  font-weight: bold;
+  color: gray;
+  border-bottom: 3px solid rgb(226, 226, 9);
+}
+.container-search label{
+  font-weight: bold;
+}
+.container-search input{
+  padding: 5px 5px;
+  border: none;
+  border-radius: 5px;
+}
+.container-search input:focus{
+  outline: none;
+  border: 1px solid yellow;
+}
+.container-search button{
+  margin-top: 20px;
+  width: 190px;
+  padding: 5px 5px;
+  border: 5px;
+  background-color: rgb(250, 250, 36);
+}
+.container-search button:hover{
+  background-color: rgb(196, 196, 42);
+}
+/* CSS SearchDM */
+.container-searchDM{
+  margin-top: 20px;
+  margin-left: 60px;
+  background-color: rgb(230, 230, 208);
+  padding: 20px 20px;
+}
+.container-searchDM span{
+  font-weight: bold;
+  color: gray;
+  border-bottom: 3px solid rgb(226, 226, 9);
+}
+.container-searchDM a{
+  text-decoration: none;
+  margin-left: 10px;
+
+}
+
+/* CSS DSTour */
+.container{
+  margin-top: 50px;
+}
+.container-main{
+  display: flex;
+  border: 1px solid grey;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 60px;
+  border-radius: 10px;
+  height: 200px;
+  width: 950px;
+}
+
+.main {
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.photo img{
+  height: 199px;
+  width: 300px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.content1{
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  padding: 0px 0px 0 15px;
+}
+.content2{
+  display: flex;
+  
+}
+.sale{
+  background-color: orangered;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 14px;
+  border-radius: 10px;
+}
+.item1{
+  margin-left: 20px;
+  border-top: 3px solid gray;
+}
+
+.item2 button{
+  width: 150px;
+  height: 40px;
+  border: none;
+  background-color: rgb(235, 235, 6);
+  border-radius: 5px;
+  margin-top: 120px;
+  margin-left: 263px;
+}
+
+h4{
+  font-size: xx-large;
+  margin-top: 10px;
+  color: rgba(255, 0, 0, 0.616);
+
+}
+h5{
+  font-size: x-large;
+  color: rgb(0, 17, 255);
+
+
+}
+
+
+
+
+/* Tiêu đề modal (giống h2 "TẠO HÓA ĐƠN") */
+.modal-title {
+  color: blue;
+  margin-left: 188px;
+  width: 600px;
+  font-weight: bold;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  width: 200px; /* đủ rộng để không xuống dòng */
+  font-weight: bold;
+    margin-left: 25px;
+
+}
+
+.form-group input,
+.form-group select {
+  flex: 1;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  height: 38px;
+  width: 400px;
+  margin-left: 25px;
+
+}
+
