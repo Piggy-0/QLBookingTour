@@ -1,0 +1,664 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\20250317095100_vehicles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\20250317095100_vehicles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\20250317110745_user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\20250317110745_user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\20250317095100_vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\20250317095100_vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\20250317101356_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\20250317101356_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317110507_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLBooking\\Migrations\\20250317110507_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317101740_Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLBooking\\Migrations\\20250317101740_Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317101149_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLBooking\\Migrations\\20250317101149_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317094907_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLBooking\\Migrations\\20250317094907_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093428_Tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLBooking\\Migrations\\20250317093428_Tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093410_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLBooking\\Migrations\\20250317093410_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093311_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLBooking\\Migrations\\20250317093311_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\qlbooking.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\qlbooking.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\20250317095033_tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\20250317095033_tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\20250317095024_danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\20250317095024_danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\20250317095011_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\20250317095011_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|d:\\m\u00F4n h\u1ECDc\\cn.net\\qlbooking\\qlbooking\\migrations\\20250520115424_addreporttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE2405-B562-4E59-85F0-231245579684}|QLBooking\\QLBooking.csproj|solutionrelative:qlbooking\\migrations\\20250520115424_addreporttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\DonHang.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\DonHang.cs",
+              "RelativeToolTip": "QLBooking\\Models\\DonHang.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:06:19.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\Tour.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Tour.cs",
+              "RelativeToolTip": "QLBooking\\Models\\Tour.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:01:07.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\User.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\User.cs",
+              "RelativeToolTip": "QLBooking\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:56:04.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "QLBooking\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:01:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QLBooking\\appsettings.Development.json",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\appsettings.Development.json",
+              "RelativeToolTip": "QLBooking\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T19:23:24.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "QLBooking\\appsettings.json",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\appsettings.json",
+              "RelativeToolTip": "QLBooking\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T09:48:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonHangsController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\DonHangsController.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Controllers\\DonHangsController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\DonHangsController.cs",
+              "RelativeToolTip": "QLBooking\\Controllers\\DonHangsController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:22:48.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Program.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Program.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Program.cs",
+              "RelativeToolTip": "QLBooking\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:37:17.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Services\\EmailService.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Services\\EmailService.cs",
+              "RelativeToolTip": "QLBooking\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:53:29.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\Roles.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Roles.cs",
+              "RelativeToolTip": "QLBooking\\Models\\Roles.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:12:12.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\Email.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Email.cs",
+              "RelativeToolTip": "QLBooking\\Models\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:12:43.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Vehicles.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\Vehicles.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Vehicles.cs",
+              "RelativeToolTip": "QLBooking\\Models\\Vehicles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:07:09.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\Report.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Report.cs",
+              "RelativeToolTip": "QLBooking\\Models\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:44:07.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\ResponseModel.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "QLBooking\\Models\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:58:45.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QLBooking\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:21:26.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250520115424_AddReportTable.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250520115424_AddReportTable.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250520115424_AddReportTable.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250520115424_AddReportTable.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250520115424_AddReportTable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:54:24.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Controllers\\DanhMucController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "QLBooking\\Controllers\\DanhMucController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:49:10.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToursController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\ToursController.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Controllers\\ToursController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\ToursController.cs",
+              "RelativeToolTip": "QLBooking\\Controllers\\ToursController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAiwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:48:59.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "QLBooking\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:26:39.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\DanhMuc.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "QLBooking\\Models\\DanhMuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:01:01.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Reviews.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Models\\Reviews.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Models\\Reviews.cs",
+              "RelativeToolTip": "QLBooking\\Models\\Reviews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:00:05.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "QLBooking\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAqwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:25:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "QLBooking\\Controllers\\VehiclesController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAkwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:32:33.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAUwHwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:21:04.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250317110745_User.Designer.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317110745_User.Designer.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317110745_User.Designer.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317110745_User.Designer.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317110745_User.Designer.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:17:37.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250317095100_Vehicles.Designer.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095100_Vehicles.Designer.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317095100_Vehicles.Designer.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095100_Vehicles.Designer.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317095100_Vehicles.Designer.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:18:02.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250317110507_User.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317110507_User.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317110507_User.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317110507_User.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317110507_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:05:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250317101356_Roles.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317101356_Roles.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317101356_Roles.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317101356_Roles.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317101356_Roles.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:13:56.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250317095100_Vehicles.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095100_Vehicles.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317095100_Vehicles.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095100_Vehicles.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317095100_Vehicles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:51:00.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250317101740_Users.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317101740_Users.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317101740_Users.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317101740_Users.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317101740_Users.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:17:41.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250317101149_User.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317101149_User.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317101149_User.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317101149_User.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317101149_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:11:49.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250317095033_Tour.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095033_Tour.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317095033_Tour.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095033_Tour.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317095033_Tour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:50:33.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250317095024_DanhMuc.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095024_DanhMuc.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317095024_DanhMuc.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095024_DanhMuc.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317095024_DanhMuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:50:24.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250317095011_DonHang.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095011_DonHang.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317095011_DonHang.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317095011_DonHang.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317095011_DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:50:11.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250317094907_User.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317094907_User.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317094907_User.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317094907_User.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317094907_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:49:07.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250317093410_User.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093410_User.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317093410_User.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093410_User.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317093410_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:34:10.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250317093428_Tour.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093428_Tour.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317093428_Tour.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093428_Tour.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317093428_Tour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:34:28.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250317093311_InitialCreate.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093311_InitialCreate.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Migrations\\20250317093311_InitialCreate.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Migrations\\20250317093311_InitialCreate.cs",
+              "RelativeToolTip": "QLBooking\\Migrations\\20250317093311_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:33:12.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "QLBooking.http",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\QLBooking.http",
+              "RelativeDocumentMoniker": "QLBooking\\QLBooking.http",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\QLBooking.http",
+              "RelativeToolTip": "QLBooking\\QLBooking.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-07T11:11:22.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "QLBooking\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc\\CN.Net\\QLBooking\\QLBooking\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "QLBooking\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:03:16.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

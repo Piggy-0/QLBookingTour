@@ -1,0 +1,771 @@
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\appsettings.Development.json
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\appsettings.json
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.exe
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.deps.json
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.runtimeconfig.json
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.pdb
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.AssemblyReference.cache
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.AssemblyInfoInputs.cache
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.AssemblyInfo.cs
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.CoreCompileInputs.cache
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.MvcApplicationPartsAssemblyInfo.cs
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.MvcApplicationPartsAssemblyInfo.cache
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.build.json
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.development.json
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.QLBooking.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.build.QLBooking.props
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QLBooking.props
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QLBooking.props
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\scopedcss\bundle\QLBooking.styles.css
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.Up2Date
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\refint\QLBooking.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.pdb
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.genruntimeconfig.cache
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\obj\Debug\net8.0\ref\QLBooking.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Azure.Core.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Azure.Identity.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Humanizer.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.CodeDom.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Build.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Common.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Hocky2-Nam3\.NET\QLBooking\QLBooking\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\appsettings.Development.json
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\appsettings.json
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.exe
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.deps.json
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.runtimeconfig.json
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.pdb
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Azure.Core.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Azure.Identity.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Humanizer.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Build.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Common.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.CodeDom.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.AssemblyReference.cache
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.AssemblyInfoInputs.cache
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.AssemblyInfo.cs
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.CoreCompileInputs.cache
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.MvcApplicationPartsAssemblyInfo.cs
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.MvcApplicationPartsAssemblyInfo.cache
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.build.json
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.development.json
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.QLBooking.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.build.QLBooking.props
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QLBooking.props
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QLBooking.props
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\scopedcss\bundle\QLBooking.styles.css
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.Up2Date
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.dll
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\refint\QLBooking.dll
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.pdb
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.genruntimeconfig.cache
+D:\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\ref\QLBooking.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\appsettings.Development.json
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\appsettings.json
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.exe
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.deps.json
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.runtimeconfig.json
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\QLBooking.pdb
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Azure.Core.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Azure.Identity.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Humanizer.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Common.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.CodeDom.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.AssemblyReference.cache
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.AssemblyInfoInputs.cache
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.AssemblyInfo.cs
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.CoreCompileInputs.cache
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.MvcApplicationPartsAssemblyInfo.cs
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.MvcApplicationPartsAssemblyInfo.cache
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.build.json
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.development.json
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.QLBooking.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.build.QLBooking.props
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QLBooking.props
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QLBooking.props
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\scopedcss\bundle\QLBooking.styles.css
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.csproj.Up2Date
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\refint\QLBooking.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.pdb
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\QLBooking.genruntimeconfig.cache
+D:\Môn Học\CN.Net\QLBooking\QLBooking\obj\Debug\net8.0\ref\QLBooking.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\MailKit.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\MimeKit.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Môn Học\CN.Net\QLBooking\QLBooking\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

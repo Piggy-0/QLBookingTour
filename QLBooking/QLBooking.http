@@ -1,0 +1,6 @@
+@QLBooking_HostAddress = http://localhost:5093
+
+GET {{QLBooking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
